@@ -17,3 +17,7 @@ nuvve first attempt lo vcheyla cheyi thalli ni midha ne bhram amma
 amma kopam tepinchi vunte ksheminchu amma
 typing,subject and interview manchiga ardham ayyela chesi job vachela cheyi amma
 job motham ok ayyaka house plan chesukoni mi panduga hesthanu amma
+\
+
+
+amma nuvve na ballam amma
