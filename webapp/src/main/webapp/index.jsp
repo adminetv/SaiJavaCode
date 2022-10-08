@@ -21,3 +21,7 @@ job motham ok ayyaka house plan chesukoni mi panduga hesthanu amma
 
 
 amma nuvve na ballam amma
+
+
+
+interview clear avvali amma first attempt lone
