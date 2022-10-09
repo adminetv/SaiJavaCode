@@ -2,6 +2,7 @@ amma nuvve naku balam,first attempt lo job vachela cheyi thalli
 amma ela ina eroju mothham ayyipoyela chudu thalli
 interview succes kavali thalli
 nuve naku dhikku amma
+karuninchu thalli
 
 
 <h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
