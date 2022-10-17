@@ -4,7 +4,7 @@ interview succes kavali thalli
 nuve naku dhikku amma
 karuninchu thalli
 
-
+<h1> amma jaldi ga k8s nerchukoni e time lo job vachela chudu amma!! </h1>
 <h1> Hello Dear Students !! Welcome to DevOps Project-2 !! <h1>
 <h2> By Mr. Sai from Saidemy </h2>
 <h2> It's time to start the DevOps Project-2!! Get ready!!! </h2>
